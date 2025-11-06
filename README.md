@@ -3,7 +3,7 @@
 # 💫 About Me:
 I am a third-year computer engineering student , passionate about exploring the realms of coding, machine learning, and building robust applications.
 
-Check out my [coding portfolio!]([https://arka-garai.github.io/portfolio-website/])
+Check out my [coding portfolio!](https://arka-garai.github.io/portfolio-website/)
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arka-garai-908775378/)
